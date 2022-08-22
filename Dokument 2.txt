@@ -1,1 +1,4 @@
-Pierwszy wpis dzisaj. Najwazniejszy wpis dzisiaj.
+wpis dzisaj. 
+Najwazniejszy wpis dzisiaj.
+
+Na dewelopie 1.

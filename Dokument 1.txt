@@ -1,2 +1,3 @@
-Pierwszy wpis dzisiaj. 
-1. Ważny kod i cokolwiek.
+Wpis dzisiaj. 
+
+2. Ważny kod i cokolwiek - na developie.
