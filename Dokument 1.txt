@@ -1,3 +1,1 @@
-Pierwszy wpis dzisiaj. 
-1. Ważny kod i cokolwiek.
-Zmieniam dzisiaj cos dla fetch
+Dodane wpisy do "drugi"
